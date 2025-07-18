@@ -61,12 +61,6 @@ Project Structure
 │   └── Sailport_Motors_Executive_Summary.pdf # (Executive Summary document)
 └── README.md
 
-How to Use (or How to Reproduce)
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
 Install Python dependencies:
 
 pip install pandas numpy seaborn scikit-learn
