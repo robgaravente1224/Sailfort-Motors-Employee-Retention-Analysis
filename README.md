@@ -67,7 +67,7 @@ pip install pandas numpy seaborn scikit-learn
 
 Run the analysis:
 
-Ensure your employee data (e.g., employee_records.csv) is placed in the data/ directory.
+Ensure employee data (e.g., employee_records.csv) is placed in the data/ directory.
 
 Open the attrition_analysis.ipynb notebook in a Jupyter environment (e.g., Jupyter Lab, VS Code with Jupyter extension).
 
